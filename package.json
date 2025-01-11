@@ -56,7 +56,7 @@
     "rehype-pretty-code": "^0.14.0",
     "simple-git": "^3.27.0",
     "simple-git-hooks": "^2.11.1",
-    "vite-plugin-pagefind": "0.2.10"
+    "vite-plugin-pagefind": "0.3.0"
   },
   "simple-git-hooks": {
     "pre-commit": "bunx esno scripts/reading-time-hook.ts && bunx lint-staged"
