@@ -18,7 +18,7 @@
     "@astrojs/rss": "4.0.11",
     "@astrojs/sitemap": "3.2.1",
     "@astrojs/vue": "^5.0.6",
-    "@unocss/reset": "^65.4.2",
+    "@unocss/reset": "^66.0.0",
     "astro": "^5.1.8",
     "nprogress": "^0.2.0",
     "powerglitch": "^2.4.0",
